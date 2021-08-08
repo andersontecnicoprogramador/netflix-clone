@@ -30,6 +30,7 @@ header .logo{
     color: var(--vermelho);
     font-family: 'Arial Black', Times;
     font-size:40px;
+    
 }
 
 header nav a{
@@ -113,6 +114,21 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top:5px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
